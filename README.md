@@ -1,0 +1,1 @@
+Simple GO app to generate random string in CLI
