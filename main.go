@@ -14,8 +14,6 @@ func main() {
 	if len(args) < 1 {
 		fmt.Println("Usage: passgen [-s] <len>")
 		return
-
-		return
 	}
 
 	if args[0] == "-h" {
